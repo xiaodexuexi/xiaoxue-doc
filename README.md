@@ -1,1 +1,1 @@
-1、利用powerdesigner生成项目的概念模型
+1、利用powerdesigner制作项目的概念模型
