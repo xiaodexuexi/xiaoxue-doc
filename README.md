@@ -1,0 +1,2 @@
+1、利用powerdesigner制作概念模型
+2、由概念模型生成mysql脚本文件
