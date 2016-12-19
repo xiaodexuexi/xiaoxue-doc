@@ -1,1 +1,1 @@
-# xiaoxue-doc生成
+1、利用powerdesigner生成项目的概念模型
